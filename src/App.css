@@ -16,3 +16,24 @@
     width: 110%;
   }
 }
+
+
+#services {
+  background-color: #8B0000; /* rojo oscuro */
+  color: white;
+  padding: 60px 0;
+}
+
+#services i {
+  color: #ff4d4d; /* rojo claro para íconos */
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+#services .service-desc h3 {
+  color: white;
+}
+
+#services .service-desc p {
+  color: white;
+}

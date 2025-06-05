@@ -1,21 +1,21 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Global Music Producciones",
+    "paragraph": "La escena musical, organizada como debe ser."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Somos una productora de eventos musicales fundada desde la pasión por crear espacios de encuentro donde la música, el arte y la comunidad se potencien mutuamente. Nuestro trabajo nace de la necesidad de renovar la escena con una mirada más organizada, inclusiva y profesional. Nos enfocamos en lograr experiencias de alto impacto emocional y técnico, cuidando tanto al público como a quienes hacen posible cada show. Entendemos que un evento exitoso no se trata solo de luces y sonido, sino de compromiso, respeto y planificación. Con un equipo dinámico, abierto al diálogo y lleno de energía, apuntamos a que cada presentación sea un verdadero recuerdo.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Amamos lo que hacemos.",
+      "Sabemos escuchar tus ideas.",
+      "Trabajamos con respeto y empatía.",
+      "Planificamos con precisión."
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Cuidamos cada detalle técnico y humano.",
+      "Promovemos la transparencia y el trabajo justo.",
+      "Creamos eventos que realmente se disfrutan.",
+      "Haremos la experiencia inolvidable"
     ]
   },
   "Gallery": [
@@ -68,33 +68,33 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Producción de Eventos Musicales",
+      "text": "Organización integral de shows, festivales y presentaciones en vivo, con gestión completa de logística, técnica y artística."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Booking y Management de Artistas",
+      "text": "Conectamos músicos con espacios, productoras y medios, y brindamos soporte en la gestión de su carrera."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Diseño y Montaje Técnico",
+      "text": "Ofrecemos soluciones de sonido, iluminación y estructuras, adaptadas a cada espacio y propuesta artística."
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Comunicación y Prensa",
+      "text": "Diseñamos campañas de difusión, generamos contenido para redes, y conectamos con medios especializados."
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Venta de Entradas Online",
+      "text": "Implementamos sistemas de ticketing digitales personalizados, con control de acceso y seguimiento en tiempo real."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Producción Audiovisual",
+      "text": "Grabación y edición de videoclips, registros en vivo, spots promocionales y cobertura fotográfica profesional."
     }
   ],
   "Testimonials": [
@@ -162,23 +162,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Transparencia y Compromiso",
+      "text": "Trabajamos con honestidad y comunicación constante para que artistas, técnicos y público confíen en cada paso que damos."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Producción Integral",
+      "text": "Nos encargamos de cada detalle del evento, desde la idea inicial hasta el cierre, garantizando calidad en cada etapa."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Ambientes Seguros y Agradables",
+      "text": "Diseñamos experiencias en donde la seguridad, el confort y la buena energía son prioridad."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Gestión sin Estrés",
+      "text": "Nos anticipamos a los imprevistos para que el evento fluya con naturalidad y vos solo te dediques a disfrutar."
     }
   ]
 }
