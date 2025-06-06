@@ -1,10 +1,11 @@
 {
   "Header": {
-    "title": "Global Music Producciones",
-    "paragraph": "La escena musical, organizada como debe ser."
-  },
+  "titleImage": "img/LOGOgm.png",
+  "paragraph": "La escena musical, organizada como debe ser."
+}
+,
   "About": {
-    "paragraph": "Somos una productora de eventos musicales fundada desde la pasión por crear espacios de encuentro donde la música, el arte y la comunidad se potencien mutuamente. Nuestro trabajo nace de la necesidad de renovar la escena con una mirada más organizada, inclusiva y profesional. Nos enfocamos en lograr experiencias de alto impacto emocional y técnico, cuidando tanto al público como a quienes hacen posible cada show. Entendemos que un evento exitoso no se trata solo de luces y sonido, sino de compromiso, respeto y planificación. Con un equipo dinámico, abierto al diálogo y lleno de energía, apuntamos a que cada presentación sea un verdadero recuerdo.",
+    "paragraph": "Somos una productora de eventos musicales fundada desde la pasión por crear espacios de encuentro donde la música, el arte y la comunidad se potencien mutuamente. Nuestro trabajo nace de la necesidad de renovar la escena con una mirada más organizada, inclusiva y profesional. Nos enfocamos en lograr experiencias de alto impacto emocional y técnico, cuidando tanto al público como a quienes hacen posible cada show. Entendemos que un evento exitoso no se trata solo de luces y sonido, sino de compromiso, respeto y planificación. Con un equipo dinámico, abierto al diálogo y lleno de energía, apuntamos a que cada presentación sea una verdadera experiencia.",
     "Why": [
       "Amamos lo que hacemos.",
       "Sabemos escuchar tus ideas.",
@@ -20,49 +21,49 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "NOTFEST I - 18/02/2023",
+      "largeImage": "img/portfolio/a1.small.jpg",
+      "smallImage": "img/portfolio/a1.large.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "NOTFEST I - 18/02/2023",
+      "largeImage": "img/portfolio/a2.small.jpg",
+      "smallImage": "img/portfolio/a2.large.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "M.A.S. FEST - 03/03/2023",
+      "largeImage": "img/portfolio/a3.small.jpg",
+      "smallImage": "img/portfolio/a3.large.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "MONSTERS ON THE SEA - 31/10/2023",
+      "largeImage": "img/portfolio/a4.small.jpg",
+      "smallImage": "img/portfolio/a4.large.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "NOTFEST II - 27/01/2024",
+      "largeImage": "img/portfolio/a5.small.jpg",
+      "smallImage": "img/portfolio/a5.large.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "MONSTERS ON THE SEA - 31/10/2023",
+      "largeImage": "img/portfolio/a6.small.jpg",
+      "smallImage": "img/portfolio/a6.large.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "title": "NOTFEST III - 01/02/2025",
+      "largeImage": "img/portfolio/a7.small.jpg",
+      "smallImage": "img/portfolio/a7.large.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "title": "NOTFEST III - 01/02/2025",
+      "largeImage": "img/portfolio/a8.small.jpg",
+      "smallImage": "img/portfolio/a8.large.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "NOTFEST III - 01/02/2025",
+      "largeImage": "img/portfolio/a9.small.jpg",
+      "smallImage": "img/portfolio/a9.large.jpg"
     }
   ],
   "Services": [
@@ -131,32 +132,50 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "img": "img/team/fotovicho.jpg",
+      "name": "Vicente Espinoza",
+      "job": "Dirección y Gestión General"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "img": "img/team/fotorei.jpg",
+      "name": "Reineres Cerda",
+      "job": "Producción Técnica"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "img": "img/team/fotopau.jpg",
+      "name": "Paula Silva",
+      "job": "Producción Ejecutiva"
     },
     {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "img/team/fotourrutia.jpg",
+      "name": "Benjamín Urrutia",
+      "job": "Diseño Gráfico"
+    }
+    ,
+    {
+      "img": "img/team/fotomishu.jpg",
+      "name": "Michelle Díaz",
+      "job": "Producción Audiovisual"
+    }
+    ,
+    {
+      "img": "img/team/fotojota.jpg",
+      "name": "Jota",
+      "job": "Dirección de Ventas y Soporte al Cliente"
+    }
+    ,
+    {
+      "img": "img/team/fotomemo.jpg",
+      "name": "Guillermo Rojas",
+      "job": "Booking y Relaciones Artísticas"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
+    "address": "La Serena, Coquimbo, IV Región de Chile",
+    "phone": "+56 9 3704 2003",
+    "email": "contacto.globalmusicproductions@gmail.com",
+    "facebook": "Global Music Producciones",
+    "twitter": "@g.music_prod",
     "youtube": "youtube.com"
   },
   "Features": [

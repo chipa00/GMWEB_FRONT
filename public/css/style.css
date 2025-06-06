@@ -18,16 +18,16 @@ h2 {
   margin: 0 0 20px;
   font-weight: 800;
   font-size: 36px;
-  color: #333;
+  color: #ffffff;
 }
 h3 {
   font-size: 20px;
   font-weight: 600;
-  color: #333;
+  color: #ffffff;
 }
 h4 {
   font-size: 18px;
-  color: #333;
+  color: #ffffff;
   font-weight: 600;
 }
 h5 {
@@ -43,13 +43,13 @@ p.intro {
   line-height: 24px;
 }
 a {
-  color: #608dfd;
+  color: #a80f0f;
   font-weight: 400;
 }
 a:hover,
 a:focus {
   text-decoration: none;
-  color: #608dfd;
+  color: #a80f0f;
 }
 ul,
 ol {
@@ -104,7 +104,7 @@ hr {
   bottom: -1px;
   width: 0;
   height: 2px;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  background: linear-gradient(to right, #8b0000 0%, #bd0202 100%);
   content: "";
   transition: width 0.2s;
 }
@@ -125,7 +125,7 @@ hr {
   bottom: -1px !important;
   width: 100% !important;
   height: 2px !important;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%) !important;
+  background: linear-gradient(to right, #8b0000 0%, #bd0202 100%) !important;
   content: "" !important;
   transition: width 0.2s !important;
 }
@@ -152,7 +152,7 @@ hr {
 .section-title h2::after {
   position: absolute;
   content: "";
-  background: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+  background: linear-gradient(to right, #8f7505 0%, #e2d302 100%);
   height: 4px;
   width: 60px;
   bottom: 0;
@@ -166,8 +166,8 @@ hr {
   font-family: "Raleway", sans-serif;
   text-transform: uppercase;
   color: #fff;
-  background-color: #5ca9fb;
-  background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+  background-color: #a80f0f;
+  background-image: linear-gradient(to right, #eb5b22 0%, #f59a46 100%);
   padding: 14px 34px;
   letter-spacing: 1px;
   margin: 0;
@@ -184,7 +184,7 @@ hr {
 .btn-custom.active {
   color: #fff;
   background-image: none;
-  background-color: #6372ff;
+  background-color: #640b0b;
 }
 .btn:active,
 .btn.active {
@@ -208,7 +208,7 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(../img/intro-bg.jpg) center center no-repeat;
+  background: url(../img/foto1sicgm.jpg) center center no-repeat;
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -229,7 +229,7 @@ a:focus,
 }
 .intro h1 span {
   font-weight: 800;
-  color: #5ca9fb;
+  color: #a80f0f;
 }
 .intro p {
   color: #fff;
@@ -257,9 +257,47 @@ header .intro-text {
   height: 100px;
   padding: 30px 0;
   border-radius: 50%;
-  background: linear-gradient(to right, #8b0000 0%, #b22222 100%);
+  background: linear-gradient(to right, #000000 0%, #444444 100%);
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
 }
+
+/* Contenedor del flyer (SwiperSlide) dentro de #features */
+#features .swiper-slide img {
+  max-width: 400px;    /* limita ancho máximo */
+  height: auto;        /* mantiene proporción */
+  border-radius: 12px; /* opcional: bordes redondeados */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2); /* sombra suave */
+  transition: transform 0.3s ease;
+}
+
+/* Efecto hover para agrandar un poco */
+#features .swiper-slide img:hover {
+  transform: scale(1.05);
+}
+
+/* Ajusta padding/margen del contenedor interno de Swiper */
+#flyer-slider .swiper-wrapper {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+/* Asegúrate de que los slides no añadan padding extra */
+#flyer-slider .swiper-slide {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+/* Si el contenedor de la imagen (o la imagen misma) tiene margen extra */
+#flyer-slider img {
+  margin-bottom: 0 !important;
+}
+
+/* También podrías controlar el section directamente si hace falta */
+#flyer-slider {
+  padding-bottom: 3rem; /* puedes ajustar esto según el espacio que quieras */
+}
+
+
 
 /* About Section */
 #about {
@@ -277,7 +315,7 @@ header .intro-text {
 #about h2::after {
   position: absolute;
   content: "";
-  background: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+  background: linear-gradient(to right, #8b0000 0%, #b22222 100%);
   height: 4px;
   width: 60px;
   bottom: 0;
@@ -312,7 +350,7 @@ header .intro-text {
 /* Services Section */
 #services {
   padding: 100px 0;
-  background: linear-gradient(to right, #8b0000 0%, #b22222 100%); /* burdeos a rojo */
+  background: linear-gradient(to right, #8a0808 0%, #b30000 100%); /* burdeos a rojo */
   color: #fff;
 }
 #services .service-desc {
@@ -336,7 +374,7 @@ header .intro-text {
   width: 120px;
   height: 120px;
   padding: 40px 0;
-  background: linear-gradient(to right, #8b0000 0%, #b22222 100%);
+  background: linear-gradient(to right, #000000 0%, #363636 100%);
   border-radius: 50%;
   color: #fff;
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
@@ -464,7 +502,7 @@ header .intro-text {
 /* Contact Section */
 #contact {
   padding: 100px 0 60px;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  background: linear-gradient(to right, #8b0000 0%, #b22222 100%);
   color: rgba(255, 255, 255, 0.75);
 }
 #contact .section-title {

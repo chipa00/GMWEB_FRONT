@@ -18,7 +18,7 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
-            React Landing Page
+            Global Music Producciones
           </a>{" "}
         </div>
 
@@ -27,39 +27,42 @@ export const Navigation = (props) => {
           id="bs-example-navbar-collapse-1"
         >
           <ul className="nav navbar-nav navbar-right">
+          <li>
+              <a href="#tickets" className="page-scroll">
+                Compra tickets
+              </a>
+            </li>
+
             <li>
               <a href="#features" className="page-scroll">
-                Features
+                Características
               </a>
             </li>
             <li>
               <a href="#about" className="page-scroll">
-                About
+                Acerca de nosotros
               </a>
             </li>
             <li>
               <a href="#services" className="page-scroll">
-                Services
+                Servicios
               </a>
             </li>
             <li>
               <a href="#portfolio" className="page-scroll">
-                Gallery
+                Galería
               </a>
             </li>
-            <li>
-              <a href="#testimonials" className="page-scroll">
-                Testimonials
-              </a>
-            </li>
+
+
             <li>
               <a href="#team" className="page-scroll">
-                Team
+                Nuestro Equipo
               </a>
             </li>
             <li>
               <a href="#contact" className="page-scroll">
-                Contact
+                Contacto
               </a>
             </li>
           </ul>
@@ -68,3 +71,12 @@ export const Navigation = (props) => {
     </nav>
   );
 };
+
+
+/*
+            <li>
+              <a href="#testimonials" className="page-scroll">
+                Testimonials
+              </a>
+            </li>
+            */

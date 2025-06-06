@@ -5,10 +5,9 @@ export const Team = (props) => {
     <div id="team" className="text-center">
       <div className="container">
         <div className="col-md-8 col-md-offset-2 section-title">
-          <h2>Meet the Team</h2>
+          <h2>Conoce a nuestro equipo</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+          Somos un equipo apasionado por la música y la producción de eventos. Combinamos experiencia, creatividad y compromiso para crear shows únicos que conectan artistas con su público.
           </p>
         </div>
         <div id="row">
